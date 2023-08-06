@@ -1,0 +1,22 @@
+/* add your CSS here */
+.description{
+
+  	border: .5px solid #666699;
+  	padding: 0.5em;	
+  	background-color: #ccfff2;
+	
+	
+}
+.emphasis{
+  	font-style: italic;}
+ul {list-style-type: none;
+	padding: 0;
+	margin: 0;}
+span {
+  font-weight: bold;}
+  body {  	
+	box-shadow: 2px 2px 4px #CCCCCC;
+	width: 300px;
+	margin: 10px;
+	border: 10px none;
+  }
